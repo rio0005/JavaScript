@@ -52,6 +52,7 @@ const lists = [
 
 
 for(let i = 0; i < lists.length; i++){
+    
     console.log(lists[i].img)
     const content = `
     <div>
